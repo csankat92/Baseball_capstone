@@ -10,5 +10,10 @@ Data Sources
 ---
 * baseball-reference.com via web-scraper (baseball_scrape & baseball_collector python scripts) 
 
-Data Cleaning
+Technology 
 ---
+* Python 
+  - BeatifulSoup for web scraping 
+  - Pandas and Numpy for data processing
+  - Matplotlib and Seaborn for data visulizations
+  - SciKit Learn Logistic Regression and Random Forest Classifier
