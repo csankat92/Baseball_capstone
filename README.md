@@ -22,5 +22,14 @@ Technology
 * Amazon Web Services
   - Ran python web-scraper on multiple EC2 instances 
   
+Data Cleaning 
+---
+Having gathered all necessary minor and major league statistics I removed all players without a minor league history prior to the year 2000. I established the cut off because of a number of rule changes in the minors and major leagues. Amongst the players in my data I also had over a thousand non-MLB affilated players such as players in foreign or independent leagues, these players were removed as they were not pertenant to solving my problem. 
+
+At this point in time I was working with data that looked like the image below. 
+
+
+
+  
  
 
