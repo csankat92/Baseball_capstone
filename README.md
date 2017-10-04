@@ -8,7 +8,7 @@ As much as major league teams would like minor leaguers to easily transition to 
 
 Data Sources
 ---
-* baseball-reference.com via web-scraper (baseball_scrape & baseball_collector python scripts) 
+* Baseball-Reference.com via web-scraper (baseball_scrape & baseball_collector python scripts) 
 
 Technology 
 ---
@@ -17,3 +17,10 @@ Technology
   - Pandas and Numpy for data processing
   - Matplotlib and Seaborn for data visulizations
   - SciKit Learn Logistic Regression and Random Forest Classifier
+* MongoDB
+  - Once data was scraped it was stored in a Mongo Database
+* Amazon Web Services
+  - Ran python web-scraper on multiple EC2 instances 
+  
+ 
+
