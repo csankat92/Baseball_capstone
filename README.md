@@ -1,5 +1,6 @@
 # Baseball_capstone
 
+Overview
 ---
 Every year as the MLB trade deadline approaches losing teams exchange veterans with winning teams for prospects. The hope is that those prospects will turn around to become great major league baseball players. 
 
