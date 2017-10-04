@@ -6,3 +6,9 @@ Every year as the MLB trade deadline approaches losing teams exchange veterans w
 
 As much as major league teams would like minor leaguers to easily transition to the majors the process isn't easy and only 10% of prospects actually graduate to the major league. My goal is aid in the player selection process and build a model that takes minor league baseball statistics and predict whether or not a minor leaguer will actually "make it".
 
+Data Sources
+---
+* baseball-reference.com via web-scraper (baseball_scrape & baseball_collector python scripts) 
+
+Data Cleaning
+---
