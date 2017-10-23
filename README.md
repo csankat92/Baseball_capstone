@@ -30,11 +30,25 @@ At this point in time I was working with data that looked like the image below.
 
 ![App Architecture](https://github.com/csankat92/Baseball_capstone/blob/master/images/Screen%20Shot%202017-10-23%20at%209.13.54%20AM.png)
 
+Identifying a Success
+---
+Before I can move on I had to classify what makes a major leaguer. Is it one season in the majors? How about 2 seasons? Maybe a major leaguer is a player who hits over 50 homeruns in his career? 
+
+Ultimately I decided to classify a major leaguer based on if a player has played 3 seasons in the majors or if they were in the minor leagues in 2015 and have 2 years of major league experience. My logic said often times major leaguers get injured and that can force a minor leaguer into the majors, thus 1 or 2 seasons shouldn't warrant a success. 3 seasons indicates the player has showcased major league talent and proven he belongs in the major leagues. Now some players simply aren't old enough to have played 3 seasons in the majors, but have major league talent and have the minor league statistics to back that up. In an attempt to inlcude these players I created the criteria if player plays in the minors in 2015 and has 2 seasons in teh majors than he is a success. 
+
+More Data Organizing
+---
+
 My data organization is not done. From here I had to condense the data into a single row for each player and include only minor league statistics. To condense the data I did a series of group-by clauses to narrow the player data into single rows. 
 
-Now my data looks like this. 
+Now my data looks like this.
 
 ![App Architecture](https://github.com/csankat92/Baseball_capstone/blob/master/images/Screen%20Shot%202017-10-23%20at%209.42.22%20AM.png)
+
+
+
+
+
 
 
   
