@@ -30,6 +30,11 @@ At this point in time I was working with data that looked like the image below.
 
 ![App Architecture](https://github.com/csankat92/Baseball_capstone/blob/master/images/Screen%20Shot%202017-10-23%20at%209.13.54%20AM.png)
 
+My data organization is not done. From here I had to condense the data into a single row for each player and include only minor league statistics. To condense the data I did a series of group-by clauses to narrow the player data into single rows. 
+
+Now my data looks like this. 
+
+![App Architecture](
 
 
   
