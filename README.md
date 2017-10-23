@@ -34,7 +34,7 @@ My data organization is not done. From here I had to condense the data into a si
 
 Now my data looks like this. 
 
-![App Architecture](
+![App Architecture](https://github.com/csankat92/Baseball_capstone/blob/master/images/Screen%20Shot%202017-10-23%20at%209.42.22%20AM.png)
 
 
   
