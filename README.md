@@ -46,6 +46,10 @@ Performing these group-by clauses gets my data into a format where I can begin m
 
 ![App Architecture](https://github.com/csankat92/Baseball_capstone/blob/master/images/Screen%20Shot%202017-10-23%20at%209.42.22%20AM.png)
 
+Data Exploration
+---
+
+
 
 
 
