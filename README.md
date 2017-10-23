@@ -28,6 +28,8 @@ Having gathered all necessary minor and major league statistics I removed all pl
 
 At this point in time I was working with data that looked like the image below. 
 
+![App Architecture](https://github.com/csankat92/Baseball_capstone/blob/master/images/Screen%20Shot%202017-10-23%20at%209.13.54%20AM.png)
+
 
 
   
