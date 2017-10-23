@@ -40,9 +40,9 @@ More Data Organizing
 ---
 Having classified successful players I needed to re-organize my data for exploration and eventually for training on a machine learning algorithm. 
 
-Taking the data in the image above I had to condense the data into single rowsfor each player and include only minor league statistics. To condense the data I did a series of group-by clauses with aggregations to narrow the player data into single rows. 
+Taking the data in the image above I had to condense the data into single rows for each player and include only minor league statistics. To condense the data I did a series of group-by clauses with aggregations to narrow the player data into single rows. 
 
-Performing these group-by clauses gets my data into a format where I can begin my exploration and narrow down the key features that actually determine what makes a major leaguer. 
+Performing these group-by clauses gets my data into a format where I can begin my exploration and pinpoint those key features that actually determine what makes a major leaguer. 
 
 ![App Architecture](https://github.com/csankat92/Baseball_capstone/blob/master/images/Screen%20Shot%202017-10-23%20at%209.42.22%20AM.png)
 
