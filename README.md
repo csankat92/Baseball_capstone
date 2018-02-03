@@ -44,7 +44,7 @@ Taking the data in the image above I had to condense the data into single rows f
 
 Performing these group-by clauses gets my data into a format where I can begin my exploration and pinpoint those key features that actually determine what makes a major leaguer. 
 
-![App Architecture](https://github.com/csankat92/Baseball_capstone/blob/master/images/Screen%20Shot%202017-10-23%20at%209.42.22%20AM.png)
+![App Architecture](https://github.com/csankat92/Baseball_capstone/blob/master/images/Screen Shot 2018-02-03 at 5.17.31 PM.png)
 
 Data Mining
 ---
