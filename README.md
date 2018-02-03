@@ -44,7 +44,7 @@ Taking the data in the image above I had to condense the data into single rows f
 
 Performing these group-by clauses gets my data into a format where I can begin my exploration and pinpoint those key features that actually determine what makes a major leaguer. 
 
-<img width="865" alt="screen shot 2018-02-03 at 5 44 18 pm" src="https://user-images.githubusercontent.com/28715286/35772796-ea2eb3d2-0909-11e8-872f-a733a00c6d07.png">
+<img width="880" alt="screen shot 2018-02-03 at 5 46 27 pm" src="https://user-images.githubusercontent.com/28715286/35772811-34dc2b8a-090a-11e8-8580-6e48025d50b4.png">
 
 
 Data Mining
