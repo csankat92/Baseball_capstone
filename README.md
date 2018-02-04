@@ -50,6 +50,11 @@ Performing these group-by clauses gets my data into a format where I can begin m
 Data Mining
 ---
 
+I begin my exploration by creating graphs that compare the Major League Graduation Percentage v.s features within my data. 
+
+Age Difference - This feature describes how old a player is versus his competition. Ex. If a player is 20 and is playing in a specific minor league where the average age is 22, his age difference will be -2. The graph below shows the smaller the age difference the greater chance he has at making it to the majors. 
+
+<img width="755" alt="screen shot 2018-02-03 at 6 14 33 pm" src="https://user-images.githubusercontent.com/28715286/35773124-82f030b0-090e-11e8-9719-d411fa3ab103.png">
 
 
 
