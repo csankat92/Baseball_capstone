@@ -64,6 +64,11 @@ Slugging best describes a player proficency as a batter. In the graph below we s
 
 <img width="847" alt="screen shot 2018-02-03 at 6 41 05 pm" src="https://user-images.githubusercontent.com/28715286/35773242-d197cf04-0911-11e8-88dd-913fc108646d.png">
 
+Lastly we have AZFL1 or Arizona Fall League:
+
+This feature is simply a dummy variable for if a minor league player played in the Arizona Fall League. The Arizona Fall League is a post minor season league where the most well regarded prospects will be sent to to play against the best competition in the minor leagues. As we seen in the graph if you attend the the Arizona Fall League your chances of graduating to the majors increases by 53%. 
+
+<img width="918" alt="screen shot 2018-02-03 at 7 06 26 pm" src="https://user-images.githubusercontent.com/28715286/35773396-82461d7a-0916-11e8-9c36-00a5d38dd394.png">
 
 
 
