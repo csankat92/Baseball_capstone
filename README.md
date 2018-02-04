@@ -75,11 +75,41 @@ Model Building
 
 Having explored my dataset and an idea on which features will influence my model it's time to build.
 
-I start by establishing my features, target variable and splitting the dataset for testing. Based on my exploration I am choosing to only include Age, Age_difference, Slugging, Batting Avg., Runs Batted In per At Bat and Number of Minor League Seasons. 
+I am choosing to only include Age, Age_difference, Slugging, Batting Avg., Runs Batted In per At Bat and Number of Minor League Seasons as the features for the model. I am also splitting my dataset into a train and test sample. I will test my trained model against the test sample to determine the accuracy of the model. 
 
 <img width="777" alt="screen shot 2018-02-03 at 7 33 44 pm" src="https://user-images.githubusercontent.com/28715286/35773468-3da8abbc-0919-11e8-84f5-74d4729e9cb9.png">
 
 <img width="744" alt="screen shot 2018-02-03 at 7 33 51 pm" src="https://user-images.githubusercontent.com/28715286/35773465-34115b44-0919-11e8-86d8-1188f4da60a7.png">
+
+
+After training my model it produced the following results. 
+
+<img width="433" alt="screen shot 2018-02-03 at 7 50 18 pm" src="https://user-images.githubusercontent.com/28715286/35773564-868b0c74-091b-11e8-832c-6a83f300cf18.png">
+
+I am not focused on accuracy because knowing only 9% of minor leagues graduate to the majors if I told my model to say no everytime it needed to make a prediction it would be correct 91% of the time. Instead, I want to measure the success of model based on recall and precision. Recall states my models ability to detect the minor leagues that have graduated to the majors. Precision states given that my model has predicted this prospect will make it to the majors what are the chances I am correct. 
+
+On my first testing of the model it does a fair job based on Recall and Precision, but my goal isn't to create a model that would get a C+ on a history test.
+
+Following some brainstorming I noticied my model is failing to pick up on the characteristics of a success with so few minor leagurs graduating to the majors. I then decide downsample the majority class using the resample function. 
+
+<img width="873" alt="screen shot 2018-02-03 at 8 14 23 pm" src="https://user-images.githubusercontent.com/28715286/35773695-dc83b074-091e-11e8-9c1b-78da04d1b1ff.png">
+
+I then re-train my model and get the following results. 
+
+<img width="424" alt="screen shot 2018-02-03 at 8 15 13 pm" src="https://user-images.githubusercontent.com/28715286/35773700-fc3f3f78-091e-11e8-9926-e7d38bc7a635.png">
+
+Downsampling signficantly improves my model Recall and Precision metrics. 
+
+Real World Test Case
+---
+In 2004, Alex Rodriguez was traded from the Texas Rangers to the New York Yankees. 
+
+![Alt Text](https://media.giphy.com/media/3ohs4wqbOH0TANtHAQ/giphy.gif)
+
+
+
+
+
 
 
 
