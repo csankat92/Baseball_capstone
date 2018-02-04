@@ -50,7 +50,7 @@ Performing these group-by clauses gets my data into a format where I can begin m
 Data Mining
 ---
 
-I start my exploration by creating graphs that compare the Major League Graduation Percentage v.s features within my data. My first stop on this journey is Age Difference. 
+I begin my exploration by creating graphs that compare the Major League Graduation Percentage v.s features within my data. My first stop on this journey is Age Difference. 
 
 This feature describes how old a player is versus his competition. Ex. If a player is 20 and is playing in a specific minor league where the average age is 22, his age difference will be -2. 
 
@@ -70,11 +70,19 @@ This feature is simply a dummy variable for if a minor league player played in t
 
 <img width="815" alt="screen shot 2018-02-03 at 7 15 23 pm" src="https://user-images.githubusercontent.com/28715286/35773399-a61eecea-0916-11e8-91ad-892606a9307b.png">
 
+Model Building
+---
+
+Having explored my dataset and an idea on which features will influence my model it's time to build.
+
+I start by establishing my features, target variable and splitting the dataset for testing. Based on my exploration I am choosing to only include Age, Age_difference, Slugging, Batting Avg., Runs Batted In per At Bat and Number of Minor League Seasons. 
+
+<img width="777" alt="screen shot 2018-02-03 at 7 33 44 pm" src="https://user-images.githubusercontent.com/28715286/35773468-3da8abbc-0919-11e8-84f5-74d4729e9cb9.png">
+
+<img width="744" alt="screen shot 2018-02-03 at 7 33 51 pm" src="https://user-images.githubusercontent.com/28715286/35773465-34115b44-0919-11e8-86d8-1188f4da60a7.png">
 
 
 
 
-
-  
  
 
