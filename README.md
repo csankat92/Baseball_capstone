@@ -104,7 +104,7 @@ Real World Test Case
 ---
 In 2004, Alex Rodriguez was traded from the Texas Rangers to the New York Yankees. 
 
-![Alt Text](https://media.giphy.com/media/3ohs4wqbOH0TANtHAQ/giphy.gif| width=100)
+![Alt Text](https://media.giphy.com/media/3ohs4wqbOH0TANtHAQ/giphy.gif){:height="50%" width="50%"}
 
 
 
