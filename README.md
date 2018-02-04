@@ -52,9 +52,9 @@ Data Mining
 
 I begin my exploration by creating graphs that compare the Major League Graduation Percentage v.s features within my data. 
 
-Age Difference - This feature describes how old a player is versus his competition. Ex. If a player is 20 and is playing in a specific minor league where the average age is 22, his age difference will be -2. The graph below shows the smaller the age difference the greater chance he has at making it to the majors. 
+Age Difference - This feature describes how old a player is versus his competition. Ex. If a player is 20 and is playing in a specific minor league where the average age is 22, his age difference will be -2. The graph below shows as age difference increases the chance of making it to the majors decreases
 
-<img width="755" alt="screen shot 2018-02-03 at 6 14 33 pm" src="https://user-images.githubusercontent.com/28715286/35773124-82f030b0-090e-11e8-9719-d411fa3ab103.png">
+<img width="866" alt="screen shot 2018-02-03 at 6 27 17 pm" src="https://user-images.githubusercontent.com/28715286/35773168-e6a5957c-090f-11e8-900c-4051240b8d60.png">
 
 
 
