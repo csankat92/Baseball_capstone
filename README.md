@@ -110,6 +110,16 @@ In exchange the Texas Rangers received Alfonso Soriano (an established All Star 
 
 ![Alt Text](https://media.giphy.com/media/l4pT8xBTIVHICE7sY/giphy.gif)
 
+Amongst the prospects the Rangers could have chosen there was another player that had a greater chance of making it to the majors. His name is Robinson Cano and if you know baseball he's an 8 time All-Star, 5 time Silver-Slugger and 2 time Gold Glove winner. Essentially any baseball fan's dream second baseman. 
+
+![Alt Text](https://media.giphy.com/media/xUOwG6hCLNXJlqn0wU/giphy.gif)
+
+Final Comments
+---
+This model is not the end all be all, but if available to a general manager or front office of a major league team I think it could seriously influence a decision. The Alex Rodriguez trade is just one example of where this model could be useful. 
+
+Thank you for reading. 
+
 
 
 
