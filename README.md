@@ -60,7 +60,7 @@ The graph below shows as Age Difference increases the chance of making it to the
 
 Next up Slugging Percentage: 
 
-Slugging best describes a player proficency as a batter. In the graph below we see as sluggin increases the chances of making to the majors also increase. The idea is if you are consistenly performing at the plate and hitting HR's, 3B's and 2B's you most certainly are going to hit the majors. 
+Slugging best describes a player proficency as a batter. In the graph below we see as slugging increases the chances of making to the majors also increase. The idea is if you are consistenly performing at the plate and hitting homeruns, triples and doubles you most certainly are going to hit the majors. 
 
 <img width="847" alt="screen shot 2018-02-03 at 6 41 05 pm" src="https://user-images.githubusercontent.com/28715286/35773242-d197cf04-0911-11e8-88dd-913fc108646d.png">
 
