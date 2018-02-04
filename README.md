@@ -50,11 +50,19 @@ Performing these group-by clauses gets my data into a format where I can begin m
 Data Mining
 ---
 
-I begin my exploration by creating graphs that compare the Major League Graduation Percentage v.s features within my data. 
+I start my exploration by creating graphs that compare the Major League Graduation Percentage v.s features within my data. My first stop on this journey is Age Difference. 
 
-Age Difference - This feature describes how old a player is versus his competition. Ex. If a player is 20 and is playing in a specific minor league where the average age is 22, his age difference will be -2. The graph below shows as age difference increases the chance of making it to the majors decreases
+This feature describes how old a player is versus his competition. Ex. If a player is 20 and is playing in a specific minor league where the average age is 22, his age difference will be -2. 
+
+The graph below shows as Age Difference increases the chance of making it to the majors decreases. In fact if you have an age difference greater than 0 your chances of making it to the majors drops to 3% and less. 
 
 <img width="883" alt="screen shot 2018-02-03 at 6 27 55 pm" src="https://user-images.githubusercontent.com/28715286/35773172-01684c88-0910-11e8-9f9f-081228786cad.png">
+
+Next up Slugging Percentage: 
+
+Slugging best describes a player proficency as a batter. In the graph below we see as sluggin increases the chances of making to the majors also increase. The idea is if you are consistenly performing at the plate and hitting HR's, 3B's and 2B's you most certainly are going to hit the majors. 
+
+<img width="739" alt="screen shot 2018-02-03 at 6 40 24 pm" src="https://user-images.githubusercontent.com/28715286/35773237-bd507942-0911-11e8-9fbd-e487ea5bb8aa.png">
 
 
 
