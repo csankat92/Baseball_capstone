@@ -68,8 +68,7 @@ Lastly we have AZFL1 or Arizona Fall League:
 
 This feature is simply a dummy variable for if a minor league player played in the Arizona Fall League. The Arizona Fall League is a post minor season league where the most well regarded prospects will be sent to to play against the best competition in the minor leagues. As we seen in the graph if you attend the the Arizona Fall League your chances of graduating to the majors increases by 53%. 
 
-<img width="918" alt="screen shot 2018-02-03 at 7 06 26 pm" src="https://user-images.githubusercontent.com/28715286/35773396-82461d7a-0916-11e8-9c36-00a5d38dd394.png">
-
+<img width="815" alt="screen shot 2018-02-03 at 7 15 23 pm" src="https://user-images.githubusercontent.com/28715286/35773399-a61eecea-0916-11e8-91ad-892606a9307b.png">
 
 
 
