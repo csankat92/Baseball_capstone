@@ -24,7 +24,7 @@ Technology
   
 Data Cleaning & Organizing
 ---
-Having gathered all necessary minor and major league statistics I removed all players without a minor league history prior to the year 2000. I established the cut off because of a number of rule changes in the minors and major leagues. Amongst the players in my data I also had over a thousand non-MLB affilated players such as players in foreign or independent leagues, these players were removed as they were not pertenant to solving my problem. 
+Having gathered all necessary minor and major league statistics I removed all players without a minor league history prior to the year 2000. I established the cut off because of a number of rule changes in the minors and major leagues. Amongst the players in my data I had over a thousand non-MLB affilated players such as players in foreign or independent leagues, these players were removed as they were not pertenant to solving my problem. 
 
 At this point in time I was working with data that looked like the image below. 
 
@@ -32,9 +32,9 @@ At this point in time I was working with data that looked like the image below.
 
 Identifying a Success
 ---
-Before I can move on I had to classify what makes a major leaguer. Is it one season in the majors? How about 2 seasons? Maybe a major leaguer is a player who hits over 50 homeruns in his career? 
+Before I can move on I had to classify what makes a major leaguer. Is it one season in the majors? How about two seasons? Maybe a major leaguer is a player who hits over 50 homeruns in his career? 
 
-Ultimately I decided to classify a major leaguer based on if a player has played 3 seasons in the majors or if they were in the minor leagues in 2015 and have 2 years of major league experience. My logic is often times major leaguers get injured and that can force a minor leaguer into the majors, thus 1 or 2 seasons shouldn't warrant a success. 3 seasons indicates the player has showcased major league talent and proven he belongs in the major leagues. Now some players simply aren't old enough to have played 3 seasons in the majors, but have major league talent and have the minor league statistics to back that up. In an attempt to include these players I created the criteria if a player plays in the minors in 2015 and has 2 seasons in the majors than he is a success. 
+Ultimately I decided to classify a major leaguer based on if a player has played 3 seasons in the majors or if they were in the minor leagues in 2015 and have two years of major league experience. My logic is often times major leaguers get injured and that can force a minor leaguer into the majors, thus one or two seasons shouldn't warrant a success. Three seasons indicates the player has showcased major league talent and proven he belongs in the major leagues. Now some players simply aren't old enough to have played 3 seasons in the majors, but have major league talent and have the minor league statistics to back that up. In an attempt to include these players I created the criteria if a player plays in the minors in 2015 and has 2 seasons in the majors than he is a success. 
 
 More Data Organizing
 ---
@@ -54,7 +54,7 @@ I begin my exploration by creating graphs that compare the Major League Graduati
 
 This feature describes how old a player is versus his competition. Ex. If a player is 20 and is playing in a specific minor league where the average age is 22, his age difference will be -2. 
 
-The graph below shows as Age Difference increases the chance of making it to the majors decreases. In fact if you have an age difference greater than 0 your chances of making it to the majors drops to 3% and less. 
+The graph below shows as Age Difference increases the chance of making it to the majors decreases. In fact if you have an age difference greater than 0 your chances of making it to the majors drops to 3% or less. 
 
 <img width="883" alt="screen shot 2018-02-03 at 6 27 55 pm" src="https://user-images.githubusercontent.com/28715286/35773172-01684c88-0910-11e8-9f9f-081228786cad.png">
 
@@ -66,7 +66,7 @@ Slugging best describes a player proficency as a batter. In the graph below we s
 
 Lastly we have AZFL1 or Arizona Fall League:
 
-This feature is simply a dummy variable for if a minor league player played in the Arizona Fall League. The Arizona Fall League is a post minor season league where the most well regarded prospects will be sent to to play against the best competition in the minor leagues. As we seen in the graph if you attend the the Arizona Fall League your chances of graduating to the majors increases by 53%. 
+This feature is simply a dummy variable for if a minor league player played in the Arizona Fall League. The Arizona Fall League is a post minor season league where the most well regarded prospects will be sent to play against the best competition in the minor leagues. As we see in the graph if you attend the the Arizona Fall League your chances of graduating to the majors increases by 53%. 
 
 <img width="815" alt="screen shot 2018-02-03 at 7 15 23 pm" src="https://user-images.githubusercontent.com/28715286/35773399-a61eecea-0916-11e8-91ad-892606a9307b.png">
 
@@ -90,7 +90,7 @@ I am not focused on accuracy because knowing only 9% of minor leagues graduate t
 
 On my first testing of the model it does a fair job based on Recall and Precision, but my goal isn't to create a model that would get a C+ on a history test.
 
-Following some brainstorming I noticied my model is failing to pick up on the characteristics of a success with so few minor leagurs graduating to the majors. I then decide downsample the majority class using the resample function. 
+Following some brainstorming I noticed my model is failing to pick up on the characteristics of a success with so few minor leagurs graduating to the majors. I then decide to downsample the majority class using the resample function. 
 
 <img width="873" alt="screen shot 2018-02-03 at 8 14 23 pm" src="https://user-images.githubusercontent.com/28715286/35773695-dc83b074-091e-11e8-9c1b-78da04d1b1ff.png">
 
