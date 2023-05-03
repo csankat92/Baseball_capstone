@@ -84,7 +84,7 @@ I am choosing to only include Age, Age_difference, Slugging, Batting Avg., Runs 
 
 After training my model it produced the following results. 
 
-![App Architecture](https://github.com/csankat92/Baseball_capstone/blob/master/images/Screen%20Shot%202023-05-03%20at%2011.17.44%20AM.png)
+<img width="433" alt="screen shot 2018-02-03 at 7 50 18 pm" src="https://user-images.githubusercontent.com/28715286/35773564-868b0c74-091b-11e8-832c-6a83f300cf18.png">
 
 I am not focused on accuracy because knowing only 9% of minor leagues graduate to the majors if I told my model to say no everytime it needed to make a prediction it would be correct 91% of the time. Instead, I want to measure the success of model based on recall and precision. Recall states my models ability to detect the minor leagues that have graduated to the majors. Precision states given that my model has predicted this prospect will make it to the majors what are the chances I am correct. 
 
@@ -104,7 +104,7 @@ Real World Test Case
 ---
 In 2004, Alex Rodriguez was traded from the Texas Rangers to the New York Yankees. 
 
-<img width="815" alt="Screen Shot 2023-05-03 at 11.17.44 AM.png" src="[https://user-images.githubusercontent.com/28715286/35773399-a61eecea-0916-11e8-91ad-892606a9307b.png](https://github.com/csankat92/Baseball_capstone/blob/1e0c2a4d502e6606b9e7e7fc6528a356e7068fd4/images/Screen%20Shot%202023-05-03%20at%2011.17.44%20AM.png)">
+<img width="815" alt="Screen Shot 2023-05-03 at 11.17.44 AM.png" src="(https://github.com/csankat92/Baseball_capstone/blob/1e0c2a4d502e6606b9e7e7fc6528a356e7068fd4/images/Screen%20Shot%202023-05-03%20at%2011.17.44%20AM.png)">
 
 In exchange the Texas Rangers received Alfonso Soriano (an established All Star caliber player) and a prospect of their choice. The Rangers choose a player named Joaquin Arias who was a well regarded prospect that was quickly moving up the ranks. According to my model Joaquin has a 85% chance of graduating to the majors. 
 
