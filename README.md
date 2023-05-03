@@ -84,7 +84,7 @@ I am choosing to only include Age, Age_difference, Slugging, Batting Avg., Runs 
 
 After training my model it produced the following results. 
 
-<img width="433" alt="screen shot 2018-02-03 at 7 50 18 pm" src="https://user-images.githubusercontent.com/28715286/35773564-868b0c74-091b-11e8-832c-6a83f300cf18.png">
+![App Architecture](https://github.com/csankat92/Baseball_capstone/blob/master/images/Screen%20Shot%202023-05-03%20at%2011.17.44%20AM.png)
 
 I am not focused on accuracy because knowing only 9% of minor leagues graduate to the majors if I told my model to say no everytime it needed to make a prediction it would be correct 91% of the time. Instead, I want to measure the success of model based on recall and precision. Recall states my models ability to detect the minor leagues that have graduated to the majors. Precision states given that my model has predicted this prospect will make it to the majors what are the chances I am correct. 
 
