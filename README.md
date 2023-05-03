@@ -104,7 +104,7 @@ Real World Test Case
 ---
 In 2004, Alex Rodriguez was traded from the Texas Rangers to the New York Yankees. 
 
-![App Architecture](https://github.com/csankat92/Baseball_capstone/blob/master/images/Screen%20Shot%202023-05-03%20at%2011.17.44%20AM.png)
+![App Architecture](<img src="https:/github.com/csankat92/Baseball_capstone/blob/master/images/Screen%20Shot%202023-05-03%20at%2011.17.44%20AM.png"  width="100" height="100">)
 
 In exchange the Texas Rangers received Alfonso Soriano (an established All Star caliber player) and a prospect of their choice. The Rangers choose a player named Joaquin Arias who was a well regarded prospect that was quickly moving up the ranks. According to my model Joaquin has a 85% chance of graduating to the majors. 
 
