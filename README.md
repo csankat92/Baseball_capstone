@@ -108,11 +108,11 @@ In 2004, Alex Rodriguez was traded from the Texas Rangers to the New York Yankee
 
 In exchange the Texas Rangers received Alfonso Soriano (an established All Star caliber player) and a prospect of their choice. The Rangers choose a player named Joaquin Arias who was a well regarded prospect that was quickly moving up the ranks. According to my model Joaquin has a 85% chance of graduating to the majors. 
 
-![Alt Text](https://media.giphy.com/media/l4pT8xBTIVHICE7sY/giphy.gif)
+![App Architecture](https://github.com/csankat92/Baseball_capstone/blob/master/images/Screen%20Shot%202023-05-03%20at%2011.17.21%20AM.png)
 
 Amongst the prospects the Rangers could have chosen there was another player that had a greater chance of making it to the majors. His name is Robinson Cano and if you know baseball he's an 8 time All-Star, 5 time Silver-Slugger and 2 time Gold Glove winner. Essentially any baseball fan's dream second baseman. 
 
-![Alt Text](https://media.giphy.com/media/xUOwG6hCLNXJlqn0wU/giphy.gif)
+![App Architecture](https://github.com/csankat92/Baseball_capstone/blob/master/images/Screen%20Shot%202023-05-03%20at%2011.16.59%20AM.png)
 
 Final Comments
 ---
