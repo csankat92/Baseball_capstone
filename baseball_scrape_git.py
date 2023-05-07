@@ -10,7 +10,6 @@ sys.setdefaultencoding('utf-8')
 def scrape(url, name):
 """ Takes baseball player URL and name, pulls player batting or pitching statistics
     and saves it to a mongoDB database. """
-
     
 # establish a connection to Mongodb database and collection
     connection = MongoClient()
