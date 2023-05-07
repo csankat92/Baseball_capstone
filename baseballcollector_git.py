@@ -10,6 +10,7 @@ import timeit
 html = urlopen('https://www.baseball-reference.com/register/player.fcgi')
 # created BeautifulSoup object that collects player URL's organized by last name
 # and stores them in the url_list
+
 soup = BeautifulSoup(html, 'lxml')
 lastname_list = []
 for i in soup.findAll('a'):
